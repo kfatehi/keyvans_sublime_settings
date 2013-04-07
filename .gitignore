@@ -1,0 +1,4 @@
+*.cache
+*.pyc
+*.last-run
+.DS_Store

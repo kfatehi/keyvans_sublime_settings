@@ -1,0 +1,18 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Arduino",
+		"CoffeeScript",
+		"CSSFormat",
+		"CSSTidy",
+		"JsFormat",
+		"Package Control",
+		"Pretty JSON",
+		"RSpec",
+		"RubyFormat",
+		"RubyMotionBuilder",
+		"RubyTest",
+		"SCSS"
+	]
+}

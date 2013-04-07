@@ -1,0 +1,32 @@
+{
+	"color_scheme": "Packages/User/Tomorrow-Night-Bright.tmTheme",
+	"detect_slow_plugins": false,
+	"file_exclude_patterns":
+	[
+		"dump.rdb",
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		"Design Reference",
+		"coverage",
+		"script",
+		".git",
+		"tmp",
+		"log",
+		"doc/app",
+		"doc/coffeescripts",
+		".zeus.sock",
+		"metrics"
+	],
+	"font_size": 17.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"sublime_cloud_git": "git@github.com:keyvanfatehi/keyvans_sublime_settings.git",
+	"tab_size": 2,
+	"use_simple_full_screen": true
+}
